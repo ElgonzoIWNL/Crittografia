@@ -1,0 +1,13 @@
+ALGORITMO DI DIVISIONE 
+
+m = mq + r
+
+r e q unici 
+
+Algoritmo euclideo delle divisione
+
+somme sono fatte in maniera veloce mentre la divisione in scomsizione di fattori primi NO
+
+Algoritmo euclideo ESTESO 
+
+PROP: 	n, m E Z
